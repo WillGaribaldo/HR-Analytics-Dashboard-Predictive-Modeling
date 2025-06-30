@@ -2,7 +2,7 @@
 
 ## 🔍 Overview
 
-This end-to-end project combines **Power BI** for interactive visualization and **Python** for predictive modeling to address HR attrition. The objective was to deliver actionable insights to help HR teams make data-driven decisions around employee retention and workforce planning.
+This end-to-end project combines **Power BI** for interactive visualization and **Python** for predictive modeling to address HR attrition. The objective was to deliver actionable insights to help HR teams make data-driven decisions around employee retention and workforce planning. **AI was leverged to help create a predictive model within Python**.
 
 ---
 
