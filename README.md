@@ -59,6 +59,8 @@ This end-to-end project combines **Power BI** for interactive visualization and 
     - Department, Job Level, Education
   - **Employee Table**:
     - `EMPID` and predicted attrition risk score
+  
+    
 ![HR Dashboard Screenshot](https://github.com/user-attachments/assets/144de9da-7921-4163-bef0-6d41518c6238)
 ---
 
